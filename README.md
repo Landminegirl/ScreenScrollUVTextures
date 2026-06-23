@@ -1,3 +1,7 @@
+
+# JOIN THE DISCORD FOR ALL UPDATES TO TOOLS https://discord.gg/UZFnJvHspC
+
+
 download the .py
 install like any other blender add on
 click object
